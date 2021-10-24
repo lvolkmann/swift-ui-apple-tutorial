@@ -1,2 +1,2 @@
 # swift-ui-apple-tutorial
-Just wanted to give it a go
+https://developer.apple.com/tutorials/swiftui
